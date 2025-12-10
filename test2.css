@@ -35,15 +35,12 @@ color:#FFFFFF;
 
 .left-part2{
 display: flex;
-flex: 1;
+width: 25%;
 flex-direction: column;
 margin-top: 75.52px;
 margin-left: 92.4px;
 }
-.part2{
-display: flex;
-flex: 1;
-}
+
 .card-img-top
 {
 width: 176.39999389648438px;
@@ -75,15 +72,22 @@ color:  #CACACA;
 }
 .card
 {
-    flex: 1;
-    display: flex;
-    justify-content:space-between;
-    margin-top: 5%;
-    flex-wrap: nowrap;
+flex: 1;
+display: flex;
+justify-content:space-between;
+margin-top: 5%;
+flex-wrap: nowrap;
 }
 
 .container{
-    display: flex;
-    justify-content:space-between;
+display: flex;
+justify-content:space-between;
 }
+.part2 div{
+width: 100%;
+flex: 1;
+/* flex-direction: row; */
+display: flex;
+justify-content:space-between;
 
+}
