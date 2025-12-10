@@ -1,0 +1,89 @@
+#left-part2-tittle{
+width: 199.73333740234375px;
+height:134.3631134033203px;
+font-family:'Poppins', sans-serif ;  
+font-weight: 600;
+font-size: 31.73px;
+color: #2F2F2F;
+}
+
+#left-part2-para{
+width: 212.8000030517578px;
+height:94.84455108642578px ;
+font-family:'Inter', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 13.07px;
+line-height:22.4px ;
+color: #6A6A6A;
+}
+
+.btn-btn-primary{
+width:149.3333282470703px;
+height:43.909515380859375px ;
+top:310px;
+left: 92.4px;
+background-color:#35736E;
+border-radius: 28px;
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:18.67px ;
+line-height: 100%;
+color:#FFFFFF;
+}
+
+.left-part2{
+display: flex;
+flex: 1;
+flex-direction: column;
+margin-top: 75.52px;
+margin-left: 92.4px;
+}
+.part2{
+display: flex;
+flex: 1;
+}
+.card-img-top
+{
+width: 176.39999389648438px;
+height: 229.20765686035156px;
+margin: auto;
+z-index:50px;
+}
+.card-text{
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+font-size:14.93px;
+line-height:22.4px ;
+text-align: center;
+color: #2F2F2F;
+}
+.card-text2{
+font-family:'Inter', sans-serif;
+font-weight: 700;
+font-size: 16.8px;
+line-height:22.4px ;
+text-align: center;
+color: #2F2F2F;
+}
+.card-body{
+width: 276.26666259765625px;
+height: 169.604431px;
+border-radius: 18.67px;
+color:  #CACACA;
+}
+.card
+{
+    flex: 1;
+    display: flex;
+    justify-content:space-between;
+    margin-top: 5%;
+    flex-wrap: nowrap;
+}
+
+.container{
+    display: flex;
+    justify-content:space-between;
+}
+

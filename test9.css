@@ -1,0 +1,65 @@
+#logo9{
+width: 52px; 
+height: 50px; 
+color: #35736E; 
+font-family: 'Saira Stencil One', sans-serif;
+margin-left: 10%;
+}
+.row {
+  color: #6A6A6A;
+  font-family: 'Inter', sans-serif;
+  font-size: 13.07px;
+  font-style: normal;
+  margin-right: 70%;
+  display: flex;          /* puts divs side by side */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-items: right;
+   flex: 1;
+   
+}
+.row div {
+  min-width: 150px; 
+        flex: 1;/* optional: keeps columns neat */
+        
+}
+
+.part9 p{
+      color: #6A6A6A; 
+      font-family: 'Inter', sans-serif;
+      font-size: 13.07px; 
+      font-style: normal; 
+      font-weight:400 ;
+      flex: 50%;
+      justify-content: end;
+}
+#con{
+    flex: 1;
+    display: flex;
+}
+.part9{
+    background-color: #FFFFFF;
+}
+body{
+    background-color:#EFF2F1;
+}
+#part9-para{
+     color: #6A6A6A; 
+    font-family: 'Inter', sans-serif;
+    font-size: 13.07px; 
+    font-style: normal; 
+    font-weight:400 ;
+    flex: 50%;
+    width: 336px;
+    height:90.53333282470703px ;
+    margin-left: 10%;
+
+}
+#part9-sec1{
+  flex: 1;
+    display: flex;
+    flex-direction: column;  
+}
+#socil-logo{
+ margin-left: 10%;
+}

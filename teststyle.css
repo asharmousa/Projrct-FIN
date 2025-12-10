@@ -1,0 +1,112 @@
+#logo1
+{
+ width:60px ;
+ height: 77px; 
+ margin-top:8.4px;
+ margin-left :32.67px;
+}
+#logo1-1
+{ 
+font-family: 'Post No Bills Colombo ExtraBold', sans-serif;   
+font-weight: 800;
+font-style: normal;
+font-size: 51.33px;
+line-height: 100%;
+color:#FFD748;
+}
+.line2
+{
+width: 56px;
+height: 28px; 
+margin-top:26.13px;
+margin-left :706.53px;    
+font-family:'Poppins', sans-serif ;   
+font-weight: 400;
+font-style: normal;
+font-size: 18.67px;
+line-height: 100%;
+color: #FFFFFF;
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+gap: 10px;
+}
+
+.icon
+{
+width:32.66666793823242px ;
+height: 32.66666793823242px; 
+margin-top:23.33px ; 
+display: flex;
+flex-direction: row;
+gap: 10px;
+}
+
+.line1{
+width:1400px ;
+height: 629.066650390625px ;
+flex: 1;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+gap: 20px;
+}
+
+#line3text{
+font-family: 'DM Serif Text', serif; 
+font-weight: 400;                   
+font-style: normal;
+font-size: 51.33px;
+line-height: 100%;
+color: white;
+width: 505.8666687011719px;
+height:140px ;      
+}
+
+.ShopNow{
+width: 149.3333282470703px;
+height:46.66666793823242px ;
+top:429.33px;
+left: 104.53px;
+background-color: #FFD748;
+border-radius: 28px;
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:18.67px ;
+line-height: 100%;
+}
+
+.Explore{
+width: 149.3333282470703px;
+height:46.66666793823242px ;
+top:429.33px;
+left: 276.27px;
+background-color:#35736E;
+border-radius: 28px;
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:18.67px ;
+line-height: 100%;
+}
+
+#rd-div{
+flex: 1;
+display: flex;
+margin-left: 10%;
+flex-direction: row;
+gap: 20px;
+}
+.line3{
+flex: 1;
+display: flex;
+flex-direction:row;
+margin-top: -420px;   
+margin-left: 92.4px;
+}
+.line3part1{
+flex: 1;
+display: flex; 
+flex-direction:column;
+}

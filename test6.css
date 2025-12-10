@@ -1,0 +1,44 @@
+#part6-text-h2{
+color:#2F2F2F;
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+font-size: 31.73px;
+text-align: center;
+}
+.part6-text{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ flex-wrap: nowrap;
+ line-height: 29.87px;
+}
+#part6-text-para{
+width: 708.5px;
+height: 116px; 
+top: 2277.15px;
+left: 351.87px; 
+color: #000000;
+font-family:'Inter', sans-serif;
+font-weight: 400;
+font-size: 16.8px;
+line-height: 29.87px;
+text-align: center;    
+}
+.part6{
+width: 1008.933349609375px;
+height: 193.20187377929688px;
+margin-left: 195.07px;
+flex: 1;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.bi-bi-arrow-right-circle 
+{
+ margin-top: 10%;
+}
+.bi-bi-arrow-left-circle 
+{
+ margin-top: 10%;
+}
+

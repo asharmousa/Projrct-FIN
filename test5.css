@@ -1,0 +1,9 @@
+.part5 {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between; /* spread cards evenly */
+  gap: 20px;
+  padding: 10px;
+}

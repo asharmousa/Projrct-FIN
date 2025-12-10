@@ -1,0 +1,44 @@
+
+#d1{
+    display: flex;
+    margin-left: 50px;
+    gap: 20px;
+}
+#d2{
+    display: flex;
+    margin-left: 50px;
+}
+#d3{
+    display: flex;
+    gap: 40px;
+    border-color: #C4C4C4;
+    border-radius: 9.33px;
+}
+
+.part7-img{
+ width: 71.86666870117188px;
+ height: 71.86666870117188px;
+ border-radius: 50%;
+ align-items: center;
+margin-left: 47%;
+}
+#part7-tittle{
+
+height:17.733333587646484px ;
+font-family: 'Poppins', sans-serif;
+font-weight: 500;
+font-size:16.8px;
+line-height:20.53px ;
+color: #000000; 
+text-align: center;
+}
+#part7-para{
+
+height:30px ;
+font-family:'Inter', sans-serif;
+font-weight: 400;
+font-size:16.8px;
+line-height:20.53px ;
+color: #2F2F2F; 
+text-align: center;
+}

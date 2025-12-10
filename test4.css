@@ -1,0 +1,32 @@
+ .part4{
+ display: flex; 
+ justify-content: space-between;            
+ gap: 40px; 
+} 
+#mini-group-img {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+}
+
+#st-list , #nd-list{
+    margin-right: 50%;
+    display: flex;
+    justify-content:flex-end;
+    flex-wrap: nowrap;
+    color: #CACACA;
+}
+.part4-left{
+    width: 50%;
+    margin-left: auto;
+}
+.part4-right{
+    width: 50%;
+    margin-left: 126px;
+}
+#part4-list{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: end;
+}
